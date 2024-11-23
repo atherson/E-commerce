@@ -8,6 +8,9 @@ body {
 a{
     text-decoration: none;
 }
+li{
+    list-style: none;
+}
 
 .progress-container {
     position:fixed; /* Ensures it stays fixed to the top */
@@ -429,3 +432,20 @@ footer{
         font-size: 40px; /* Adjust size for smaller screens */
     }
 }
+/* Default styles for larger screens */
+.pc-menu {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.pc-menu nav ul {
+    display: flex;
+    list-style: none;
+}
+
+.pc-menu nav ul li {
+    margin-right: 20px;
+}
+
+
