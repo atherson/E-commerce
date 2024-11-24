@@ -1,8 +1,8 @@
 body {
     margin: 0;
     font-family: Verdana, sans-serif;
-    background-color: rgb(162, 161, 159);
-    color:rgb(155, 103, 68);
+    background-color: rgb(55, 69, 80);
+    color:rgb(254, 186, 173);
 }
 a{
     text-decoration: none;
@@ -24,8 +24,8 @@ a{
 header {
     display: flex;
     padding: 0 16px;
-    background-color:rgb(27, 21, 21);
-    color:rgb(155, 103, 68);
+    background-color:rgb(55, 69, 80);
+    color:rgb(254, 186, 173);
     height: 64px;
     align-items: center;
     justify-content: space-between;
@@ -47,7 +47,7 @@ header {
     transform: rotate(-2deg);
 }
 h1{
-    color:rgb(155, 103, 68);
+    color:rgb(254, 186, 173);
 }
 .progress-container {
     position: fixed; 
@@ -81,7 +81,7 @@ h1{
 
 }
 .pc-active{
-    color:rgb(155, 103, 68);
+    color:rgb(254, 186, 173);
 }
 
 header h1 {
