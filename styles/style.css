@@ -24,7 +24,7 @@ a{
 header {
     display: flex;
     padding: 0 16px;
-    background-color: rgb(34, 43, 50);
+    background-color: rgb(27, 21, 21);
     color:rgb(254, 186, 173);
     height: 64px;
     align-items: center;
@@ -412,7 +412,7 @@ footer {
 
 
 footer{
-    background-color: rgb(34, 43, 50);
+    background-color: rgb(27, 21, 21);
     text-align: center;
     padding: 10px;
     
