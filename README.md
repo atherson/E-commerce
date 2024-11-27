@@ -19,6 +19,7 @@ Clone the repository:
 
 Copy code
 git clone https://github.com/atherson/E-commerce.git
+
 Open index.html in your browser to view the site.
 
 
