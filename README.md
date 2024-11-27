@@ -1,5 +1,5 @@
 
-Evoke Fashion is a stylish kenyan made e-commerce website designed for showcasing fashion collections for men and women. The website allows users to browse product categories and navigate through different fashion sections with ease.
+Evoke Fashion is a stylish Kenyan made e-commerce website designed for showcasing fashion collections for men and women. The website allows users to browse product categories and navigate through different fashion sections with ease.
 
 Features
 
