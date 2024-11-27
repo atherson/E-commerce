@@ -226,7 +226,6 @@ main {
     cursor: pointer;
 }
 
-/* General Cart Button */
 #cart-button {
     position: fixed;
     top: 70px;
@@ -308,7 +307,6 @@ main {
     margin-left: 10px;
     
 }
- /* General styles */
 .product-card {
     position: relative;
     width: 200px;
@@ -411,6 +409,6 @@ footer {
         display: none;
     }
     .icon {
-        font-size: 40px; /* Adjust size for smaller screens */
+        font-size: 40px;
     }
 }
