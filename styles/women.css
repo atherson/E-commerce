@@ -8,7 +8,6 @@ body {
 a{
     text-decoration: none;
 }
-
 .progress-container {
     position:fixed; /* Ensures it stays fixed to the top */
     top: 0;
@@ -24,7 +23,6 @@ a{
     background-color: #4caf50; /* Green progress indicator */
     transition: width 0.25s ease-out; /* Smooth animation for progress */
 }
-
 header {
     display: flex;
     padding: 0 16px;
@@ -50,9 +48,7 @@ header {
     color:yellowgreen;
     border-radius: 25%;
     transform: rotate(-2deg);
-
 }
-
 h1{
     color:rgb(254, 186, 173);
 }
@@ -84,7 +80,6 @@ h1{
     border: 1px solid white;
     overflow: hidden;
 }
-
 .scroll-button {
     color:rgb(254, 186, 173);
     color: white;
@@ -140,17 +135,13 @@ h1{
 }
 #search-bar:hover{
     transition: 0.8s ease-in-out;
-
 }
-
 header h1 {
     margin: 0;
     font-size: 22px;
     line-height: 64px;
     position:relative;
 }
-
-
 .sp-menu {
     display: flex;
     align-items: center;
